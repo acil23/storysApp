@@ -1,7 +1,7 @@
-export const BASE_URL = 'https://citycare-api.dicoding.dev/v1';
+export const BASE_URL = 'https://story-api.dicoding.dev/v1';
 
 const CONFIG = {
-  BASE_URL: 'ttps://citycare-api.dicoding.dev/v1',
+  BASE_URL: 'https://story-api.dicoding.dev/v1',
 };
 
 export const VAPID_PUBLIC_KEY =

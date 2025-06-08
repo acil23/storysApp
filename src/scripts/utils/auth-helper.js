@@ -17,6 +17,8 @@ export const Auth = {
 };
 
 function updateNavigationMenu() {
+  console.log("Token yang dikirim:", Auth.getToken());
+
   const navList = document.getElementById("nav-list");
 
   if (!navList) return;
